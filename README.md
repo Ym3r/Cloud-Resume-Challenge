@@ -1,4 +1,4 @@
-# IJRCloud-Resume-Challenge
+# Cloud-Resume-Challenge
 The Cloud Resume Challenge by Forrest Brazeal.
 I first heard of this project from community members in our discord server and found it quite interesting. 
 Some areas are completely new to me like HTML, Javascript & CSS, so I've had to put in some hours doing crash courses on all. (Codecademy & W3schools are excellent resources)
